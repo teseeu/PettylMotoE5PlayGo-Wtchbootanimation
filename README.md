@@ -2,6 +2,7 @@ CTOS Watch Dogs Boot Animation — Pettyl
 
 Módulo Magisk que troca a boot animation de sistema pela tela de "boot" do CTOS, no estilo da franquia **Watch Dogs**, feito para o **Motorola Moto E5 Play GO** (codinome `pettyl`).
 
+![Preview da boot animation](preview.gif)
 
 Sobre
 
