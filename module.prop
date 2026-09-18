@@ -1,0 +1,6 @@
+id=ctos_watchdogs_pettyl
+name=CTOS Watch Dogs Boot Animation
+version=1.1-videofix
+versionCode=2
+author=Custom
+description=Watch Dogs CTOS boot animation adaptada para o formato de video nativo do Motorola pettyl (videodesc.txt + mp4), corrigindo a estrutura anterior que estava no padrao AOSP classico (desc.txt + PNGs)
